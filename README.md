@@ -41,5 +41,4 @@
 
 **微信小程序**：
 
-![gh_230e101e8d7b_344.jpg](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/07e1883ec4be4533b0b208f6291b5eb3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgYnh5Y2h5:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMTM5ODIzNDUxODY2MTAyMiJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1772030079&x-orig-sign=ayzMz0KZAeWpTr8tD9Xws0M%2FvbM%3D)
-
+![gh_230e101e8d7b_344](https://github.com/user-attachments/assets/c5d75ef0-e347-4878-8575-b591285e7792)
