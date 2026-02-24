@@ -1,2 +1,45 @@
-# interview
-🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，Html、Css、JavaScript、Vue、React、Node、TypeScript、算法、网络与安全、浏览器
+### **🛠️ 技术架构：全链路 Serverless 实践**
+
+#### **✈️ 前端（极致体验）- （vue全家桶）**
+-   **Vue3 + Vite**：利用新一代构建工具，实现毫秒级的热更新与极小的打包体积。
+-   **Pinia**：现代化的状态管理，轻量且类型安全。
+-   **Element-Plus**：打磨精致的 UI 交互，支持响应式布局，完美适配 **PC 端、平板与 H5 移动端**。
+
+#### **🔥 服务端（边缘计算）**
+-   **Hono**：超高性能的边缘 Web 框架，比传统框架更轻、更快。
+-   **Drizzle ORM**：轻量级、零开销的 TypeScript ORM，完美契合 Serverless 场景。
+-   **Cloudflare Wrangler**：顺滑的开发与部署工作流。
+
+
+#### **⚡ 数据库与存储**
+-   **Cloudflare D1**：分布式的 SQL 数据库，让数据离用户更近。
+-   **Cloudflare KV**：全局分布式键值存储，缓存高频题目，实现零延迟访问。
+
+
+#### **✨ 项目：不仅仅是刷题**
+-   **🎯 匠心校对**：每一道题都经过逻辑重构，纯手工打磨。
+
+-   **🔔 极致性能**：得益于 Serverless 边缘计算方案，全球访问延迟极低，真正做到秒开（100000000秒也是秒开）。
+
+-   **📱 多端覆盖**：
+    -   **Web 端/ h5 端**：沉浸式复习模式。
+    -   **小程序端**：利用原生能力，支持随时随地利用碎片时间巩固知识点。
+
+-   **💥 自动化流水线**：基于 **Wrangler + GitHub Actions** 实现 CI/CD，代码提交即部署。
+
+
+### 📈 路线图与愿景 (Roadmap)
+-   [x] 完成全栈基础架构搭建与多端适配
+-   [x] 核心面试模块上线
+-   [ ] 码友圈
+
+### **📅 每日更新计划**
+
+-   **慢工出细活**：不追求数量，每日更新 1-2 道面试题。(如果没更新就是我偷懒了🙈)
+
+**PC/h5**：https://interview-web.pages.dev
+
+**微信小程序**：
+
+![gh_230e101e8d7b_344.jpg](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/07e1883ec4be4533b0b208f6291b5eb3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgYnh5Y2h5:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMTM5ODIzNDUxODY2MTAyMiJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1772030079&x-orig-sign=ayzMz0KZAeWpTr8tD9Xws0M%2FvbM%3D)
+
